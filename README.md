@@ -14,4 +14,4 @@ Aerospace engineering student at Cal Poly Pomona (astronautics). I build things 
 
 **Interests:** spacecraft guidance and autonomy, safe AI for control, high-speed flight.
 
-[LinkedIn](https://www.linkedin.com/in/jamilhammoudeh/) · mhammoudeh@cpp.edu
+[LinkedIn](https://www.linkedin.com/in/jamilhammoudeh/) · jhammoudeh@outlook.com
