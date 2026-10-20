@@ -1,4 +1,4 @@
-# Hi everyone 👋
+# Hi everyone! 👋
 
 🎓 I'm Jamil, an aerospace engineering student at Cal Poly Pomona with an emphasis in astronautics.
 I love to build stuff with my hands and have a passion for supersonic flight and space.
