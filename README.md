@@ -1,17 +1,14 @@
-# Hi, I'm Jamil
+# Hey everyone 👋
 
-Aerospace engineering student at Cal Poly Pomona (astronautics). I build things that fly and the software that flies them.
+🎓 I'm Jamil, an aerospace engineering student at Cal Poly Pomona with an emphasis in astronautics.
+🔧 I love to build stuff with my hands and have a passion for supersonic flight and space.
 
-**Currently working on**
+🚀 Right now I'm working on three projects:
 
-- **ARCS** (Autonomous Rendezvous and Control Suite): an open-source simulator for testing AI and classical spacecraft controllers on rendezvous and proximity operations, with safety constraints. Python, SciPy, Gymnasium.
-- **Boom Prize entry**: designing a sub-25 kg turbojet RC aircraft to break Mach 1.
-- **Tilawa**: a Quran recitation app that uses machine learning to give tajweed feedback.
+- 🛰️ [V-BAR](https://github.com/jamilhammoudeh/vbar), a benchmark for spacecraft rendezvous controllers
+- ✈️ a sub-25 kg turbojet RC jet built to go past Mach 1 for the Boom Prize
+- 📖 [Tilawa](https://tilawaai.app), a free Quran app
 
-**Background**
+💫 Into supersonic flight, spacecraft autonomy, and eventually asteroid mining.
 
-4+ years in aircraft repair and modification at SOAR LP, including a Boeing 767 structural program in Shannon, Ireland.
-
-**Interests:** spacecraft guidance and autonomy, safe AI for control, high-speed flight.
-
-[LinkedIn](https://www.linkedin.com/in/jamilhammoudeh/) · j.hammoudeh@outlook.com
+🌐 [jamilhammoudeh.com](https://jamilhammoudeh.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jamilhammoudeh)
