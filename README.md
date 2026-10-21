@@ -5,10 +5,10 @@ I love to build stuff with my hands and have a passion for supersonic flight and
 
 Right now I'm working on three projects:
 
-- 🛰️ [V-BAR](https://github.com/jamilhammoudeh/vbar), a benchmark for spacecraft rendezvous controllers
-- ✈️ a sub-25 kg turbojet RC jet built to go past Mach 1 for the Boom Prize
-- 📖 [Tilawa](https://tilawaai.app), a free Quran app that fixes your recitation and tajweed
+- [V-BAR](https://github.com/jamilhammoudeh/vbar), a benchmark for spacecraft rendezvous controllers
+- a sub-25 kg turbojet RC jet built to go past Mach 1 for the Boom Prize
+- [Tilawa](https://tilawaai.app), a free Quran app that fixes your recitation and tajweed
 
-💫 Into supersonic flight, spacecraft autonomy, and eventually asteroid mining.
+Into supersonic flight, spacecraft autonomy, and eventually asteroid mining.
 
-🌐 [jamilhammoudeh.com](https://jamilhammoudeh.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jamilhammoudeh)
+[jamilhammoudeh.com](https://jamilhammoudeh.com) · [LinkedIn](https://www.linkedin.com/in/jamilhammoudeh)
